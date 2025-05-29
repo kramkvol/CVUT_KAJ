@@ -1,0 +1,9 @@
+{
+    "php.validate.executablePath": "D:/XAMPfiles/php/php.exe",
+    "php.executablePath": "D:/XAMPfiles/php/php.exe",
+    "php.debug.executablePath": "D:/XAMPfiles/php/php.exe",
+    "python.defaultInterpreterPath": "C:\\Users\\Ольга\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "git.enableSmartCommit": true,
+    "diffEditor.maxComputationTime": 0,
+    "git.confirmSync": false,
+  }

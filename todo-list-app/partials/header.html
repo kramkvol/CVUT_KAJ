@@ -1,0 +1,8 @@
+<header>
+<nav>
+    <a href="index.html">Home</a>
+    <a href="#list" onclick="history.pushState(null, '', '#list'); App.handleRouting('#list');">Tasks</a>
+    <a href="#add" onclick="history.pushState(null, '', '#add'); App.handleRouting('#add');">Add Task</a>
+    <a href="#" onclick="localStorage.removeItem('loggedInUser'); window.location.href='login.html';">Log Out</a>
+</nav>
+</header>

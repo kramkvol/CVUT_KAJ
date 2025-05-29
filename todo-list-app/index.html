@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>To-Do List - Home</title>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+    <div id="networkStatus" style="display: none;"></div>
+
+    <div id="header"></div>
+
+    <main>
+        <section id="taskSection">
+            <h2>My Tasks</h2>
+            <div id="taskListActions"></div>
+            <ul id="taskList"></ul>
+        </section>
+
+        <section id="addTaskSection">
+            <h2>Add New Task</h2>
+            <form id="addTaskForm">
+                <label for="taskText">Task Title:</label>
+                <input type="text" id="taskText" required />
+
+                <label for="taskNote">Task Note:</label>
+                <textarea id="taskNote" rows="4"></textarea>
+
+                <label for="taskImage">Attach Image:</label>
+                <input type="file" id="taskImage" accept="image/*" />
+
+                <label for="taskAudio">Attach Audio:</label>
+                <input type="file" id="taskAudio" accept="audio/*" />
+
+                <button type="submit">Add Task</button>
+            </form>
+        </section>
+    </main>
+
+    <div id="footer"></div>
+
+    <script src="js/media.js"></script>
+    <script src="js/svgHandler.js"></script>
+    <script src="js/offline.js"></script>
+    <script src="js/dragdrop.js"></script>
+    <script src="js/taskManager.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
