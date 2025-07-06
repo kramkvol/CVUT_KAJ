@@ -1,7 +1,6 @@
 # Summer Semester 2025 - Final Project for B0B39KAJ Client applications in JavaScript
+## How to Use the Application
 Open: https://kramkvol.github.io/CVUT_KAJ/
-
-How to Use the Application
 1. Open the application in your browser by launching 'index.html'.
 2. If you are a new user, click 'Register here' on the login page and create an account.
 3. Log in using your registered username and password.
