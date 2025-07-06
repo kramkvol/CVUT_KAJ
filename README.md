@@ -17,3 +17,5 @@ Open: https://kramkvol.github.io/CVUT_KAJ/
 7. You can navigate to 'Add New Task' or 'My Tasks' sections using page routing or by focusing input fields.
 8. The app will show your network status and continue working offline using the service worker.
 9. All your data is saved in the browser's localStorage and tied to your user account.
+## links
+[GitHub](https://github.com/kramkvol/CVUT_KAJ)
