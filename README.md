@@ -1,5 +1,4 @@
 # Summer Semester 2025 - Final Project for B0B39KAJ Client applications in JavaScript
-
 Open: https://kramkvol.github.io/CVUT_KAJ/
 
 How to Use the Application
